@@ -1,0 +1,13 @@
+D:\NCKH\qltv\qltv\bin\Release\qltv.exe.config
+D:\NCKH\qltv\qltv\bin\Release\qltv.exe
+D:\NCKH\qltv\qltv\bin\Release\qltv.pdb
+D:\NCKH\qltv\qltv\bin\Release\Newtonsoft.Json.dll
+D:\NCKH\qltv\qltv\bin\Release\RestSharp.dll
+D:\NCKH\qltv\qltv\bin\Release\RestSharp.Serializers.Newtonsoft.Json.dll
+D:\NCKH\qltv\qltv\bin\Release\Newtonsoft.Json.xml
+D:\NCKH\qltv\qltv\bin\Release\RestSharp.xml
+D:\NCKH\qltv\qltv\obj\Release\qltv.Form1.resources
+D:\NCKH\qltv\qltv\obj\Release\qltv.Properties.Resources.resources
+D:\NCKH\qltv\qltv\obj\Release\qltv.csproj.GenerateResource.Cache
+D:\NCKH\qltv\qltv\obj\Release\qltv.exe
+D:\NCKH\qltv\qltv\obj\Release\qltv.pdb
